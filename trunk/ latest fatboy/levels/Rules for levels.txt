@@ -1,1 +1,5 @@
-All level files should only contain dynamically linked content. None of the objects that are in a level should be created in the level file. If a object needs to be added to a level file, it should be created in a seperate blend file and put in the props file. If the props file becomes to complex, props should be broken up into folders that specify the level they are used in if they are only used in one file, however I do not for see the props folder becoming to complex for this project.
+* All level files should only contain dynamically linked content. None of the objects that are in a level should be created in the level file. 
+
+* If a object needs to be added to a level file, it should be created in a seperate blend file and put in the props file. 
+
+* If the props file becomes to complex, props should be broken up into folders that specify the level they are used in if they are only used in one file, however I do not for see the props folder becoming to complex for this project.
