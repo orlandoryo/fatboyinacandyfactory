@@ -1,17 +1,14 @@
 -give candy a damage property
--let candy respawn at the top
--let gum at candy machine(the one in the front) spawn regularly
 
--let character flip the switch when he hits it
--stop candy respawn after switch is flipped
+-when the switch animation playes the switch turns 90 degrees
 
--gumball glass doesnt look good
+-end the level after switch is flipped
 
--light is sometimes weird when you walk from the gumballmachine to the right it becomes certainly way better
+
 
 -give different give climbing blocks different color
 -give the walls and floor good color or texture
--the color of the machines in the back right should be something like black (they dont look the same as in machine.blend)
+
 
 -put vents in the background en side walls
 
