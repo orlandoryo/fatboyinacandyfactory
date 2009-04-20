@@ -1,0 +1,10 @@
+
+
+-when the switch animation playes the switch turns 90 degrees
+
+Notes:
+-climbing on a vertical block starts a little below it
+-no bubble pop in this level (too hard)
+-you have to walk with moving platforms (otherwise you fall of)
+
+
